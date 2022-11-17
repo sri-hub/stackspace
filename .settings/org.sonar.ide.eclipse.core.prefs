@@ -1,5 +1,0 @@
-eclipse.preferences.version=1
-extraProperties=sonar.jacoco.reportPaths\=F\:\\batch-3\\projects\\stackspaceMicroservice/jacoco/jacoco.exec
-projectKey=org.stackspace.employee\:stackspace
-serverUrl=http\://localhost\:9000
-version=2
