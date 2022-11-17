@@ -18,7 +18,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.http.ResponseEntity;
 import org.springframework.test.context.junit4.SpringRunner;
-import org.stackspace.employee.bindings.Employees;
 import org.stackspace.employee.entity.Employee;
 import org.stackspace.employee.exception.DuplicateRecordException;
 import org.stackspace.employee.exception.FailedToDeleteRecoedException;
